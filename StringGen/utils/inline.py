@@ -7,7 +7,7 @@ keyboard = InlineKeyboardMarkup(
     [
         [InlineKeyboardButton(text="Generate session", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="Support", url=https://t.me/Yakuza_Units),
+            InlineKeyboardButton(text="Support", url=SUPPORT_CHAT),
             InlineKeyboardButton(
                 text="Owner", url="https://github.com/AnonymousX1025/StringGenBot"
             ),
